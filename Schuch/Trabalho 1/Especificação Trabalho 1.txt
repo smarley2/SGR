@@ -1,0 +1,8 @@
+- Desenvolvimento de uma introdução (da dissertação ou da tese)
+		- Fontes primária de energia;
+		- Geração e consumo de energia elétrica;
+		- Geração e consumo de energia elétrica renováveis;
+		- Impactos ambientais, sociais e econômicos;
+		- Cenários futuros;
+
+Máximo 4 páginas.

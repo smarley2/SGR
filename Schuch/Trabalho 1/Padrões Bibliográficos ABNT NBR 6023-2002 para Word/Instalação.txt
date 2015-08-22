@@ -1,0 +1,3 @@
+Para instalar os padrões bibliográficos, copiar os arquivos para:
+
+C:\Arquivos de Programas\Microsoft Office\Office##\Bibliography\Style
